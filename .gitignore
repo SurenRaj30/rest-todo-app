@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Database files
+*.sql
+*.sqlite
+
+# IDE/Editor folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build directories
+dist/
+build/
+
+# Git-specific files
+.git/
